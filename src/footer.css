@@ -1,0 +1,23 @@
+.page-footer{
+    background: linear-gradient(90deg, rgba(21,21,21,1) 0%, rgba(84,68,68,1) 100%, rgba(0,212,255,1) 100%); margin-top: 5%;
+}
+
+a{
+    color: white;
+}
+
+hr{
+    background-color: #00ffff; margin-bottom: 2%;
+}
+
+.abc{
+    margin-bottom: 0;
+}
+
+.fa-facebook{
+    margin-left: 25%;
+}
+
+.footer-copyright{
+    color: white; margin-top: 0;
+}
